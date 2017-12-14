@@ -1,0 +1,5 @@
+*.cpp linguist-language=c++
+*.h linguist-language=c++
+LICENSE linguist-documentation
+Makefile.am linguist-vendored
+configure.ac linguist-vendored
